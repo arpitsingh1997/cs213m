@@ -1,2 +1,2 @@
-# cs213m
-CS213 Cycle Management Project
+# CS213M
+Cycle rental portal to rent cycles within the IITB campus
